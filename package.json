@@ -1,0 +1,20 @@
+{
+  "name": "diff-hell",
+  "version": "1.0.0",
+  "description": "Diffie-Hellman Algo. Implementation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Ekaansh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-forge": "^0.7.4",
+    "socket.io": "^2.0.4"
+  },
+  "engines": {
+    "node": "10.12.0"
+  }
+}
